@@ -25,6 +25,5 @@ public class App {
         System.out.println("T2: " + t2.getState());
 
         System.exit(0);
-
     }
 }
